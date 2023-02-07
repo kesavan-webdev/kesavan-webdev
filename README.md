@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kesavan-webdev" alt="kesavan-webdev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kesavan" target="blank"><img src="https://img.shields.io/twitter/follow/kesavan?logo=twitter&style=for-the-badge" alt="kesavan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kesav__official" target="blank"><img src="https://img.shields.io/twitter/follow/kesavan?logo=twitter&style=for-the-badge" alt="kesavan" /></a> </p>
 
 - 🔭 I’m currently working on **streams software solutions**
 
