@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **kesavanplk7@gmail.com**
 
-- ⚡ Fun fact **I'm Funny**
+- ⚡ Fun fact **I'm Funny and Introvert**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
